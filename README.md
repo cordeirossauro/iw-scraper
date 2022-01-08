@@ -2,7 +2,7 @@
 
 ## Description
 
-This web scraper takes data from the properties listed on imovelweb.com.br based on three parameters given by the user:
+This web scraper takes data from the properties listed on [imovelweb](https://www.imovelweb.com.br/) based on three parameters given by the user:
 
 1. State: The abbreviation of the state name to scrape ([here](https://brazil-help.com/brazilian_states.htm) is a list with all the states);
 2. Property Type: The type of property to scrape. The user can choose to scrape information on houses or apartments (apts);

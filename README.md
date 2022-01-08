@@ -12,7 +12,7 @@ After choosing a combination of the three parameters above, the program will sta
 
 - **Link**: The link to the listing;
 - **Price**: The price of the property (either a sale price or a rent price);
-- **Condo Fee**: The condo fee of the property (not all listed properties have one, so in these cases the value will be 0);
+- **Condo Fee**: The condo fee of the property (not all properties have one, so in these cases the value will be 0);
 - **District**: The district where the property is located;
 - **City**: The city where the property is located;
 - **Area**: The total area of the property;
